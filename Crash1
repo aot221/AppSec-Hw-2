@@ -1,0 +1,2 @@
+#Crashes due to '.' being blacklisted as a unallowable string.
+print 1.2 + 5
